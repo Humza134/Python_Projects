@@ -1,0 +1,51 @@
+[
+    {
+        "account_name": "Hamza",
+        "account_number": 99017,
+        "password": 7996,
+        "balance": 1100.0,
+        "contact_number": "123",
+        "email": "h@hgmail.com",
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 500.0,
+                "timestamp": "2025-01-04 23:51:51"
+            },
+            {
+                "type": "withdraw",
+                "amount": 400.0,
+                "timestamp": "2025-01-04 23:52:25"
+            }
+        ]
+    },
+    {
+        "account_name": "Talha",
+        "account_number": 13709,
+        "password": 1866,
+        "balance": 2000.0,
+        "contact_number": "456",
+        "email": "t@tgmail.com",
+        "transactions": []
+    },
+    {
+        "account_name": "Abdul Wahab",
+        "account_number": 87504,
+        "password": 2178,
+        "balance": 1000.0,
+        "contact_number": "456",
+        "email": "w@wgamil.com",
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 1000.0,
+                "timestamp": "2025-01-06 17:12:01"
+            },
+            {
+                "type": "withdraw",
+                "amount": 500.0,
+                "timestamp": "2025-01-06 17:12:27"
+            }
+        ]
+    }
+]

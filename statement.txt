@@ -1,0 +1,6 @@
+2025-01-04 22:57:35 | Account 89911 | Deposit | Amount: 500.0 | Balance after: 1500.0
+2025-01-04 22:58:08 | Account 89911 | Withdrawal | Amount: 200.0 | Balance after: 1300.0
+2025-01-04 23:51:51 | Account 99017 | Deposit | Amount: 500.0 | Balance after: 1500.0
+2025-01-04 23:52:25 | Account 99017 | Withdrawal | Amount: 400.0 | Balance after: 1100.0
+2025-01-06 17:12:01 | Account 87504 | Deposit | Amount: 1000.0 | Balance after: 1500.0
+2025-01-06 17:12:27 | Account 87504 | Withdrawal | Amount: 500.0 | Balance after: 1000.0

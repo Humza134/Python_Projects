@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Hamza",
+        "balance": 1500,
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 500
+            },
+            {
+                "type": "withdraw",
+                "amount": 1000
+            }
+        ]
+    },
+    {
+        "name": "Talha",
+        "balance": 2200,
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 500
+            },
+            {
+                "type": "withdraw",
+                "amount": 300
+            }
+        ]
+    },
+    {
+        "name": "Talha",
+        "balance": 2000,
+        "transactions": []
+    },
+    {
+        "name": "Ahmed",
+        "balance": 5500,
+        "transactions": [
+            {
+                "type": "deposit",
+                "amount": 1000
+            },
+            {
+                "type": "withdraw",
+                "amount": 500
+            }
+        ]
+    },
+    {
+        "name": "Ali",
+        "balance": 5000,
+        "transactions": [
+            {
+                "type": "withdraw",
+                "amount": 500
+            },
+            {
+                "type": "deposit",
+                "amount": 1500
+            }
+        ]
+    }
+]
