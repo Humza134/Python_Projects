@@ -1,0 +1,20 @@
+[
+    {
+        "product_id": "cd82d2da-5acb-4dee-8ef6-c2697e11f9f4",
+        "product_name": "Laptop",
+        "product_price": 80000.0,
+        "product_quantity": 20
+    },
+    {
+        "product_id": "46b1cfc1-46ab-4924-8d04-45ed9b68c585",
+        "product_name": "IPhone",
+        "product_price": 100000.0,
+        "product_quantity": 10
+    },
+    {
+        "product_id": "01ee195f-004f-4b08-9d10-3eacf47c84a3",
+        "product_name": "Samsung",
+        "product_price": 50000.0,
+        "product_quantity": 30
+    }
+]
